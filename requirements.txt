@@ -1,0 +1,4 @@
+aiogram
+aiosqlite
+xlsxwriter
+python-dotenv
